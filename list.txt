@@ -1,0 +1,38 @@
+
++---.idea
+|   \---libraries
++---dev
+|   +---img
+|   |   +---sprite
+|   |   \---weixin-invite
+|   |       \---small
+|   +---jade-component
+|   +---jade-html
+|   |   \---微信邀请函
+|   +---js
+|   +---lib
+|   +---sass
+|   |   +---output
+|   |   +---sass-lib
+|   |   \---sprity
+|   \---slice
+|       +---common
+|       \---weixin-invite-icons
++---dist
+|   +---css
+|   +---html
+|   |   \---微信邀请函
+|   |       \---inlineCss
+|   +---img
+|   |   +---sprite
+|   |   \---weixin-invite
+|   |       \---small
+|   \---js
++---gulpTasks
+\---pagePDF
+    \---微信邀请函
+        +---img
+        +---切图
+        +---小图
+        +---标注
+        \---设计稿
